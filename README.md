@@ -1,3 +1,5 @@
+# Next.js x shadcn
+
 ## Requirements
 
 Please have NVM installed.
