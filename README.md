@@ -48,5 +48,6 @@ Search by name, rating, and genre:
 ![alt text](<Screenshots/Screenshot 2024-04-07 at 16.47.48.png>)
 
 Mobile:
+
 ![alt text](<Screenshots/Screenshot 2024-04-07 at 16.55.21.png>)
 ![alt text](<Screenshots/Screenshot 2024-04-07 at 16.55.28.png>)
