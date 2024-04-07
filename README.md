@@ -1,5 +1,7 @@
 # Next.js x shadcn
 
+I used Next.js and components from shadcn to complete this task. I mainly chose shadcn because it is a collection of re-usable components.
+
 ## Requirements
 
 Please have NVM installed.
